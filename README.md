@@ -1,4 +1,4 @@
-#Cryptocurrency / Bitcoin Price Prediction using Python
+###Cryptocurrency / Bitcoin Price Prediction using Python
 
 I'll begin the work of predicting the price of cryptocurrencies by loading the required Python modules and the dataset. I'll use the yfinance API to obtain the most recent information on Bitcoin values from Yahoo Finance for this work. 
 
